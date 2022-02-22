@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinary lecture. Preached at the Blacke-Friers, by M. Egerton. And taken as it was vttered by characterie. Macte: officium, officii, fructus</title>
+            <author>Egerton, Stephen, 1555?-1621?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21185</idno>
+            <idno type="STC">STC 7538</idno>
+            <idno type="STC">ESTC S116919</idno>
+            <idno type="EEBO-CITATION">99852134</idno>
+            <idno type="PROQUEST">99852134</idno>
+            <idno type="VID">17441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 17441)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 638:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinary lecture. Preached at the Blacke-Friers, by M. Egerton. And taken as it was vttered by characterie. Macte: officium, officii, fructus</title>
+                  <author>Egerton, Stephen, 1555?-1621?</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Windet for Iohn Dalderne, and are to be sold in Canon lane at the signe of the white horse,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1589.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the Christian reader" signed: Stephen Egerton.</note>
+                  <note>Running title reads: A godly sermon.</note>
+                  <note>Final leaf is blank.</note>
+                  <note>"The earliest shorthand report that we possess in any modern language"--Folger Shakespeare Library Catalogue.</note>
+                  <note>Signatures: A-B (B8, final leaf, is blank).</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:17441:1"/>
+            <pb facs="tcp:17441:1" rendition="simple:additions"/>
+            <p>AN ORDINARY LECTVRE.</p>
+            <p>Preached at the Blacke-<hi>Friers, by M.</hi> Egerton.</p>
+            <p>
+               <hi>And taken as it was vttered by Characterie.</hi>
+            </p>
+            <p>MACTE: OFFICIVM, OFFICII, <hi>Fructus.</hi>
+            </p>
+            <p>AT LONDON ¶ <hi>Printed by Iohn Windet</hi> for Iohn Dalderne, and are to be ſold in Canon lane at the ſigne of the white horſe. 1589.</p>
+         </div>
+         <div type="preface_to_the_reader">
+            <pb facs="tcp:17441:2"/>
+            <pb facs="tcp:17441:2" rendition="simple:additions"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath bin (chri<g ref="char:EOLhyphen"/>ſtian Reader) till of late, much wi<g ref="char:EOLhyphen"/>ſhed, that there were an ordina<g ref="char:EOLhyphen"/>rie way of ſwift writing, where<g ref="char:EOLhyphen"/>by, Sermons and Lectures of godly Preachers might bee preſerued for the vſe of the abſent and poſteritie hereafter. That whereas no more remaineth after the hower paſſed, then ſo much as the frailtie of me<g ref="char:EOLhyphen"/>morie carieth away. By the benefit of ſpeedie writing the whole bodie of the Lecture and Sermon might be regeſtred. This deſire of manie, hath lately bene ſatisfied, by an Art called Characterie, which I hauing
+<pb facs="tcp:17441:3" rendition="simple:additions"/>learned, haue put in practiſe, in wri<g ref="char:EOLhyphen"/>ting ſermons therby to preſerue (as it were) the life of much memorable doctrine, that would otherwiſe bee buried in forgetfulnes: whereof I here giue thee a fruit, (chriſtian rea<g ref="char:EOLhyphen"/>der) in publiſhing this godly ſermo<g ref="char:cmbAbbrStroke">̄</g> ſo take<g ref="char:cmbAbbrStroke">̄</g>. I haue not miſſed one word; wherby, either the truth of doctrine might be peruerted, or the meaning of the Preacher altered. Such is the vſe of the art, which I haue learned. And as at this day God is plentifull in varietie of gifts, ſo if ſome occaſi<g ref="char:EOLhyphen"/>on had not hindred, I would haue made thee partaker, (and may here<g ref="char:EOLhyphen"/>after) of other godly mens labours in this kind, that, although one can<g ref="char:EOLhyphen"/>not heare al: yet by Charactery and my indeuour, the diuers giftes of God may by this meanes bee com<g ref="char:EOLhyphen"/>municated to many. Farewell in the Lord.</p>
+            <closer>
+               <signed>Thy well willer A. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:17441:3" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> An ordinary lecture preached at the Blacke-Friers.</head>
+            <epigraph>
+               <q>
+                  <bibl>Gen. Chap. 12. ver. 17.18.19.20.</bibl>
+                  <p>LEt vs marke with reuerence that part of ho<g ref="char:EOLhyphen"/>lie Scripture that followeth in the 12. Chap. of Gen. the 17.18.19. and 20. verſes.</p>
+                  <p n="17">17 <hi>But the Lorde plagued Pharaoh and his houſe with great plagues, becauſe of Sara Abrahams wife.</hi>
+                  </p>
+                  <p n="18">18 <hi>Then Pharaoh called Abraham and ſaid, why haſt thou done this vnto me? wherefore diddeſt thou not tell me that ſhe was thy wife?</hi>
+                  </p>
+                  <p n="19">19 <hi>Why ſaideſt thou ſhe is my ſiſter, that I ſhould take her to be my wife? now therefore behold thy wife take her and go thy way.</hi>
+                  </p>
+                  <p n="20">20 <hi>And Pharaoh gaue me commaundement concer<g ref="char:EOLhyphen"/>ning him, and they conueied him forth and his wife, and all that he had.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this ſame firſt iourney &amp; wandring pilgrimage of Abraham, we did ob<g ref="char:EOLhyphen"/>ſerue the cauſe vvhich compelled him to take this iourney vppon him, and alſo that which did be fall him in this iourney. The cauſe of his iourney, was the fa<g ref="char:EOLhyphen"/>mine
+<pb facs="tcp:17441:4"/>and dearth, which did driue him out of the lande of his inheritaunce, which God had giuen him, which was the land of Canaan. That which did befal him in this place, was a greeuous temptation &amp; triall, and ſhaking both of the firmenes of his faith and confi<g ref="char:EOLhyphen"/>dence, &amp; alſo of his obedience to God. The occaſion of this ſame temptation was the fauour and beautie of his wife which thing he conſidered more deep<g ref="char:EOLhyphen"/>ly, when he beheld the complexion of thoſe women to whome he went, that is of the Aegyptians. The euent and iſſue of this temptation is partly heauy and grieuous, and partly comfortable vnto him. For hereby Abraham was driuen to his ſhifts, hee was mooued through the malice of the aduerſarie, and the corruption of his nature to ſin againſt God, and to vſe a meanes and a way which is not preſcribed &amp; ſqua<g ref="char:EOLhyphen"/>red out by the law of God, and partlie the iſſue of this temptation was com<g ref="char:EOLhyphen"/>fortable in reſpect of the prouidence of God and his heauenly father, who did not onely keepe him from ſuffe<g ref="char:EOLhyphen"/>ring
+<pb facs="tcp:17441:4" rendition="simple:additions"/>wrong at Pharaohs hand, but al<g ref="char:EOLhyphen"/>ſo did ſo guide the heart of that pro<g ref="char:EOLhyphen"/>fane and wicked Prince, that hee went away rewarded &amp; largely recompen<g ref="char:EOLhyphen"/>ced.</p>
+            <p>Out of the former verſes, the laſt time we ſhewed, that theſe outward be<g ref="char:EOLhyphen"/>nefites and ornaments, wherewithall God of his loue, doth beautify &amp; deck either our bodie or our perſon, are fit baits to mooue vs to tempt God. For ſuch was the occaſion that riſeth heere vnto Abraham, whome the beautie of his wife did make to run to this ſhift, which otherwiſe hee would not haue done. Therfore concerning ſuch bene<g ref="char:EOLhyphen"/>fits, though they be the bleſings of god, yet in reſpect of our corrupt nature, we muſt take heed &amp; beware leaſt wee be drawen by them to do thoſe things whereby we may bring vpon vs manie croſſes and calamities. Secondly I no<g ref="char:EOLhyphen"/>ted, that the moſt deare and faithfull ſeruants of God, though they bee per<g ref="char:EOLhyphen"/>ſwaded in the general grounds of their faith, yet oftentimes they trip in the perticulars, and that though they bee
+<pb facs="tcp:17441:5" rendition="simple:additions"/>aſſured that God will preſerue them, yet concerning the way whereby hee will worke their preſeruation, therein they ſhewe the weekneſſe that is in all fleſhe. For though Abraham had the promiſes of preſeruation, yet hee was not to looke for it by any inordinate meanes, for the promiſes of God are made with a condition of our dutie in the behalfe of our ſelues, as is ſaid after vnto Abraham: <hi>VValke before mee and bee ſincere.</hi> Out of which wee haue to learne, that this muſt be our wiſdome, to reſt vpon God, and to leane to him, and not to our own wiſdome, as Salo<g ref="char:EOLhyphen"/>mon ſaith.</p>
+            <p>Againe, wee obſerued that it is the propertie of profane men, and carnall profeſſors, to take away &amp; to remooue whatſoeuer may hinder them in the inioying of their luſts. For this was the grou<g ref="char:cmbAbbrStroke">̄</g>d that Abraha<g ref="char:cmbAbbrStroke">̄</g> did build vpon, &amp; this was his ſuſpicion that he thought hee coulde looke for nothing but wrong and rapine at the handes of the Aegyptians. And this hath beene the occaſion, why the Godly haue bene al<g ref="char:EOLhyphen"/>waies
+<pb facs="tcp:17441:5" rendition="simple:additions"/>kept vnder and haue bin odious in the ſight of the prophane men of this world. Eſpecially the Miniſters of the woord, the Phiſitions of our ſoules who are to purge of that poyſo<g ref="char:cmbAbbrStroke">̄</g> which ſleaeth the ſoule, in this reſpect they haue beene vſuallie abhorred of the world, they are impriſoned, impoueri<g ref="char:EOLhyphen"/>ſhed, and euery way diſpitfullie vſed. This made the Prophets of god in old time to be ſo purſued. This made the head of Iohn the Baptiſt to be ſtroken of, becauſe hee was a hinderer of the luſt of Herode. Therefore ſeeing this was ſo from the beginning, and ſeeing that Abraham the father of faithfull, and the deare ſeruant of God had ex<g ref="char:EOLhyphen"/>perience of it, wee muſt not thinke it ſtrange, that we which are his children and come ſhort of his faith, if wee ſhall be at anie time impriſoned, and kept vnder in reſpect that through the cal<g ref="char:EOLhyphen"/>ling of Ieſus Chriſt, we are ſuch as muſt ſtand in the gappe to reprooue them, and to admoniſh them, and to tel them that this is not expedient for them, though they long neuer ſo greedily af<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:17441:6" rendition="simple:additions"/>it. Concerning the intertainement of Abraham and Sara in Aegypt, wee noted the propertie of carnall men, both of the common people, of Cour<g ref="char:EOLhyphen"/>tiers, and Princes themſelues. Howe they do more wonder at beautie then at wiſedome, more wonder at a faire &amp; beautifull face, then at a reformed and holie affection, for this is that Moſes here noteth in the Princes and officers of Pharaohs Court.</p>
+            <p>And heereby it commeth to paſſe, that Princes are more commonly en<g ref="char:EOLhyphen"/>formed. What beautifull perſonages, what proper tal men they haue belong<g ref="char:EOLunhyphen"/>ing vnto them, then what religious and obedient, and faithfull ſubiects bee in their land, and that thorow their own default. For this is the nature of ſuch godleſſe officers, that they ſeek to feed the corruptions of their Princes, rather then to remedy them, and rather to in<g ref="char:EOLhyphen"/>creaſe them, then by any meanes to make the<g ref="char:cmbAbbrStroke">̄</g> leſſe. For ſurely if they were as well mooued in the behalfe of the faithful, of the wiſe, and of the learned, as they bee in the behalfe of thoſe that
+<pb facs="tcp:17441:6" rendition="simple:additions"/>be proud and beautifull, and Atheiſtes &amp; ſuch like, they would ſurely receiue ſuch into their Courts aſwel as others. Finally, in that Pharaoh did not onelie take him vp into his pallace, but alſo rewarded him liberally in reſpect of his wife. I ſhewed you that his libe<g ref="char:EOLhyphen"/>rallitie and bountie was not a thing vnworthy a Prince, but it was naught in that reſpect, that hee did it euen to ſtop vp the mouth of Abraham, and to cloſe vp his eies and his eares, that hee ſhould not ſee with his eies, nor heare with his eares, nor ſpeake of the luſt and of the riot and wrong of the king. Wherein I noted, that it is the property of Princes that are carnally minded. to ſpare no coſt vpon thoſe, by whoſe ſi<g ref="char:EOLhyphen"/>lence, or by whoſe ſpeach their delight and luſt may bee furthered and nouri<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>If a man will but let them ſleepe in their ſinne, if he wil but ſpeake ſo ſoft<g ref="char:EOLhyphen"/>lie, ſo ſlilie, &amp; ſo warilie, that his ſpeech ſhal not a wake them, but be vnto them as a charme, whereby they ſhall ſleepe the more, if he will do but any of theſe
+<pb facs="tcp:17441:7"/>he ſhalbe well recompenced. Therfore not onely traitors and rebels are ene<g ref="char:EOLhyphen"/>mies to Princes, but diſſembling hipo<g ref="char:EOLhyphen"/>crites are alſo enemies, yea euen ſuche flattering teachers, which though they vnderſtand, yet they do not touch nor ranſacke that ſore which they ought to deale withal, &amp; theſe are ſuch as the Prophet Ie. maketh mention of whom he ſpeaketh of the falſe ptophets of his time, which would heale the out-ſide, and make it looke faire, but afterward the ſore ſhall breake foorth, and then it ſhall be more daungerous and more deadly than euer it was before. Such are oftentimes willingly, and eaſily ad<g ref="char:EOLhyphen"/>mitted into the Courtes of Princes, which though they be prophane, and careleſſe, yet to heare ſuch, it is a de<g ref="char:EOLhyphen"/>light, it neuer troubleth them or diſ<g ref="char:EOLhyphen"/>quieth them. They had as leaue heare ſuch a one as ſee a playe, for the one dooth come no nearer the heart then the other. Such gifts I ſay though they bee liberall, they are not bleſſed vnto the giuer, nor yet to him that taketh them in any ſuch reſpect. But the Lord
+<pb facs="tcp:17441:7" rendition="simple:additions"/>wil puniſh and correct ſuch a giuer and ſuch a receiuer.</p>
+            <p>Now concerning theſe words that follow, we haue heere ſet downe, how the Lord did take Abrahams part: how hee tooke his cauſe into his hand, and how he pleaded in his behalfe, Briefe<g ref="char:EOLhyphen"/>ly, wee haue the reward of that ſinne &amp; iniuſtice that was doone vnto Abra<g ref="char:EOLhyphen"/>ham, though vnder ſome colour of fa<g ref="char:EOLhyphen"/>uorable, and compaſsionable dealing, (as indeed it was). For we haue manie profeſſours of religion that wil not do the like, where is ſet downe both the puniſhment, and the fruit that it had in Pharaoh. The puniſhment was inflic<g ref="char:EOLhyphen"/>ted by the Lord:</p>
+            <q>The Lord plagued Pharaoh and his houſe for Sara Abrahams wife.</q>
+            <p>The Lorde is the author of the pu<g ref="char:EOLhyphen"/>niſhment, who without reſpect of per<g ref="char:EOLhyphen"/>ſon dooth puniſh, and that Princes. It is ſaid, that hee plagued Pharaoh, and that not with a ſmall plague, or with fewe plagues, but with great plagues, and many plagnes. The cauſe why, is alſo lighty touched which was bee<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:17441:8"/>expreſſed, becauſe of Sara Abra<g ref="char:EOLhyphen"/>hams wife, becauſe of the wrong and iniurie which was offered by Pharaoh, who would alſo haue taken away hys wife. That worke which this puniſh<g ref="char:EOLhyphen"/>ment had in Pharaoh, is two folde. The firſt it driueth him to an angrie expo<g ref="char:EOLhyphen"/>ſtulation with Abraham, and he expo<g ref="char:EOLhyphen"/>ſtulateth &amp; reaſoneth the matter hotly with him, and ſecondly it driueth him to a reſtitution and a reſtoring of that which he had taken away before from him, namely, of his wife, with a care that the thing which hee did reſtore, might remaine with him, and might not be taken away from him by his of<g ref="char:EOLhyphen"/>ficers.</p>
+            <p>This is brieflie that which wee are to marke in theſe words. Out of which wee are to learne for our inſtruction. Firſt, that the lord God is a moſt faith<g ref="char:EOLhyphen"/>full keeper and protector of thoſe which depend vpon him, yea although they ſeeme through the weakneſſe of their faith, at ſome time to ſlip and to offend his Maieſty, for this ſeemeth to bee an infirmitie of Abraham, that hee
+<pb facs="tcp:17441:8"/>woulde conceale that part of trueth which was moſt necaſſary, and would rather hazard the chaſtitie of his wife, and the diſpleaſure of God which hee might prouoke therby, then he would commit him ſelfe to the prouidence of God. Yet God taketh his part againſt Princes, which is a general rule and in<g ref="char:EOLhyphen"/>ſtruction of faith vnto all the children of Abraham which are his children, not according to his profeſsion, but according to his faith. This is that which is ſet down in the hundred and fifth Pſalme, where ſpeaking of the co<g ref="char:EOLhyphen"/>uenaunt which God made vnto Abra<g ref="char:EOLhyphen"/>ham, Iſaacke, and Iacob. Hee ſaith the Lord did defend them, although they were few in number, yea though they were very fewe, and ſtraungers in the land, and walked from nation to nati<g ref="char:EOLhyphen"/>on, from one kingdome to another people, yet ſuffereth he no man to doe them wrong, but euen rebuked kinges for their ſake, ſaying: <hi>Touch not my an<g ref="char:EOLhyphen"/>nointed, &amp; do my Prophets no harme.</hi> Here the Lord ſpeaketh roughly vnto Pha<g ref="char:EOLhyphen"/>raoh. He ſpeaketh vnto him by puniſh<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:17441:9"/>the kind whereof is not here ex<g ref="char:EOLhyphen"/>preſſed: but it is to be thought, that it was ſome greiuous kinde of puniſhe<g ref="char:EOLhyphen"/>ment, which might not onely correct the ſinne which was committed, but al<g ref="char:EOLhyphen"/>ſo preuent others. For ſo the Lord di<g ref="char:EOLhyphen"/>recteth his puniſhment, that therby he may not onely correct them for the ſinnes committed, but alſo preuent ſuch as hereafter may bee committed.</p>
+            <p>This is then the firſt inſtruction that wee haue heere to learne: an exceeding great comfort vnto al that walk in the ſteps of the faith of Abraham. Thoſe that doe them wrong, they ſhall not e<g ref="char:EOLhyphen"/>ſcape free, the hand of the Lord will be vpon them. Though they bee neuer ſo ſtrange and vnknowen, the Lord wil be vnto them a friend, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a father to de<g ref="char:EOLhyphen"/>fend them and to garde them, and to reſtore their wrongs vppon their ene<g ref="char:EOLhyphen"/>mies,</p>
+            <p>Secondly, in that it is ſaid, that the Lorde did plague Pharaoh with great plagues becauſe of Sara Abrahams wife. We do learne, that the Lord as he is a puniſher of ſinnes without reſpect
+<pb facs="tcp:17441:9"/>of perſons, ſo hee is a particular iudge of this ſinne of adulterie, according to that generall and holy doctrine in the thirteenth to the Hebrues, the fourth verſe, where hee ſaith: that marriage is honourable among al and the bed vn<g ref="char:EOLhyphen"/>defiled; but whoremongers, and adul<g ref="char:EOLhyphen"/>terers God will iudge, or as it is heere ſaid, God will plague and condemne them, and correct them whatſoeuer they be. For the vſe of marriage is ho<g ref="char:EOLhyphen"/>lie, but the abuſe thereof is deteſtable. For fornication, and adultery, and vn<g ref="char:EOLhyphen"/>cleaneneſſe, are accurſed in all and a<g ref="char:EOLhyphen"/>mong all.</p>
+            <p>It is not the power and auctoritie of the prince that dooth hide and co<g ref="char:EOLhyphen"/>uer the ſin of a Prince. Sinne ſeemeth as vglie in the eies of God being com<g ref="char:EOLhyphen"/>mitted by the mightieſt monarche of the worlde, as by the baſeſt begger of the earth, Therefore, fooliſh and blind is that conceit, which hath ouer-caſt the mindes of many, they cannot ſee the ſinnes of Princes and Magiſtrates. They cannot diſcerne of the deueliſhe and horrible vncleanenes of theſe ſins
+<pb facs="tcp:17441:10"/>that are committed by Princes &amp; rich men. Eſpecially they themſelues think that bicauſe God hath ſet them aboue others, therefore they haue more au<g ref="char:EOLhyphen"/>thority to ſinne then others. I confeſſe indeed, they haue more meanes to doe it: but that ſaying ſhall be fitly applied vnto them: the mighty men ſhall bee mightilie puniſhed for their ſinnes. For as al ſinnes are ioyned with ingra<g ref="char:EOLhyphen"/>titude, and by reaſon of it are made more ſinfull: ſo, eſpecially the ſinne of rich men, of wiſe men, of learned men, is ioyned with moſt deteſtable ingra<g ref="char:EOLhyphen"/>titude againſt the maieſtie of God, be<g ref="char:EOLhyphen"/>cauſe his benefites to them are farre more then to others.</p>
+            <p>A third thing is here to bee noted, in that it is ſaid, GOD did not onely plague Pharaoh, but his houſe alſo: not meaning the walles and the timber of the houſe, but his Familie, his Ser<g ref="char:EOLhyphen"/>uaunts, his kindſemen, and thoſe that were of his houſe. Which teacheth vs this, that we are not ſo lightly to think of the ſinnes of magiſtrates, of Pa<g ref="char:EOLhyphen"/>rents, and of the chiefe of families, and
+<pb facs="tcp:17441:10"/>we learne alſo by this, that God dooth puniſh oftentimes a whole kingdome, for the riot, &amp; luſt of the gouernours, and guiders of the ſame. Therefore we muſt al ſet our hands to this thing, and according to that meaſure of grace which we haue receiued, to admoniſh them, to make ſuit vnto God, for hys ſpirite of ſanctification, to light vppon them: and we ought not onely to pray for their long life, but alſo for the ſpirite of ſanctification and regenerati<g ref="char:EOLhyphen"/>on, that their heartes may bee renued according to the image of Ieſus chriſt, whereby their imaginations may bee ſubdued by the working of the ſpirite of God. For otherwiſe we ſhall not be onelie fearfully plagued, but our ſinnes ſhall be vppon our owne head, and wee ſhall be acceſſarie to the puniſhment, if wee haue not performed this dutie to<g ref="char:EOLhyphen"/>wardes our gouernours, either in the Church or Common-wealth. Let vs not therfore thinke the ſinnes of great ones to bee little ones, but euen ſuch as touch vs to the verie skin, and ſuch as wil bring a plague vpon our bodies
+<pb facs="tcp:17441:11"/>if we doe wincke at them, and if we do not indeuour to preuent them, our puniſhment is iuſt, and may iuſtly ſaie that wee haue a part in thoſe ſinnes, which we did not labour to preuent in them, by whome we haue receiued be<g ref="char:EOLhyphen"/>nefits.</p>
+            <p>Laſtly, wee learne out of this ſeuen<g ref="char:EOLhyphen"/>teenth verſe, that God doth not onely puniſhe the act of adulterie; the very fact committed, but euen the ende<g ref="char:EOLhyphen"/>uour, the purpoſe and reſolution to do it, although the ſame be ſhadowed with ſome excuſe of want of the knowledge of the truth. For Pharaoh had not ac<g ref="char:EOLhyphen"/>companied with Sara, for the Lorde ſmote him &amp; laid his hand vpon him, and deſtroyed him by a violent hand, and though he had a reſolution to doe it, yet not as an adulterer with an adul<g ref="char:EOLhyphen"/>tereſſe, but as an husband with hys wife, as appeareth after by the expo<g ref="char:EOLhyphen"/>ſtulation that hee maketh with Abra<g ref="char:EOLhyphen"/>ham. Yet we muſt know and acknow<g ref="char:EOLhyphen"/>ledge, that the Lorde God is iuſt, and holy, and vpright, and equall in all his waies, and that all the vneuenes, it is in
+<pb facs="tcp:17441:11"/>waies and not in his waies. Therefore euen ignoraunce is not excuſed when wee ſinne; for though the ſinne by it may ſeeme to be leſſe, but yet it cannot make it, but ſtill it ſhall be a ſinne, and ſuch as deſerueth euerlaſting condem<g ref="char:EOLhyphen"/>nation: much more therefore a bodi<g ref="char:EOLhyphen"/>lie puniſhment. Now, if God without reſpect of perſons, bee ſo iuſt a puniſh<g ref="char:EOLhyphen"/>er of Magiſtrates and mighty ones of this world: and that onely for the pur<g ref="char:EOLhyphen"/>poſe and reſolution of continuing ſin. Howe ſhall wee thinke to eſcape free, which make litle conſcience of the fact it ſelfe, when as we make no reckoning at all, of the purpoſe and reſolution, when as nothing ſtandeth betweene vs and the actuall committing of ſin, but onely the want of occaſion. The commandements of God as touching this ſinne, are plaine, the threatninges great. No whoremonger ſhall enter in<g ref="char:EOLhyphen"/>to the kingdome of God, and as it is ſaid in the Reuelation, that the fearful and vnbeleeuing, and abhominable, &amp; murtherers, and whoremongers, &amp;c. ſhall haue their part in the lake which
+<pb facs="tcp:17441:12"/>burneth with fier &amp; brimſtone, which is the ſecond death, who though they had bin daily reuoked, and called back from their vncleane conuerſaſion, yet they were like horſes, that neigh after their neighbors wiues and daughters. If neither the commaundement, nor threatninges of God can ſerue, yet let this paterne of a king mooue them to forſake their vncleane life. GOD did not ſpare that holy and religious king, which was a man after his owne heart, I ſay he did not ſpare Dauid, when hee committed this ſin againſt God and his Church, the Lorde did plague hym fearfully for it. How much more then, ſhal not ſuch wretches eſcape the hand of God, that neuer ſought to frame their hearts according to Gods mind? &amp; yet they are as confident in ſinning, as thoſe that haue all the colours and pretences in the world, yea oftentimes none more vile then they whiche ought to ſeeke vnto the Lorde, and to worke out their owne ſaluation wyth feare and trembling.</p>
+            <p>
+               <hi>Then Pharaoh called Abraham and ſaid:
+<pb facs="tcp:17441:12" rendition="simple:additions"/>VVhy haſt thou done this vnto me, &amp;c.</hi>
+            </p>
+            <p>Here, behold the Lorde did not pu<g ref="char:EOLhyphen"/>niſh him in vaine. His caſe and conditi<g ref="char:EOLhyphen"/>on was not ſo deſperate, as the eſtate of thoſe that bee the members of the Church, yea the very Church of God and ſuch as will be counted the onely profeſſours: when it could not be ſayd of him: I haue plagued thee in vaine. This is the complaint of God in the firſt of Eſay. Wherefore ſhould you be ſmitten any more, or wherefore ſhould you be plagued? for that is the ſame in effect. Seeing that you fall away more and more: ſo that the very heathen, that haue no knowledge of God, they are many times, more iuſt and more tender hearted then wee, and doe more profite by the puniſhmentes of God then we, of whom it may be iuſtly ſaid as it was ſaid of the Iewes. Wherefore ſhould I ſmite and wound your minds with many ſorrowes, why ſhould I caſt reproche vppon you, and giue you ouer into the handes of your ene<g ref="char:EOLhyphen"/>mies, and of the mercileſſe men. It doth no god, you are nothing the bet<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:17441:13" rendition="simple:additions"/>for it. And what naturall father wil correct that childe that is hardned and made worſe by ſtripes, then any whit bettered. For the end of correction is the amendment of the partie who is corrected, Now if no ſinne be preuen<g ref="char:EOLhyphen"/>ted, if the party be not made to feare to doe ill, it is to no purpoſe. I ſay let this example &amp; paterne of a heathen king bee an example and a paterne vnto vs to follow: leaſt it be a witneſſe againſt vs in the day of iudgement, when it ſhalbe laid to our charge, that we haue read: that cruel Pharaoh, merciles Pha<g ref="char:EOLhyphen"/>raoh, wicked Pharaoh, was made the better: and the more vigilant, and how he was made the more careful to clear himſelfe: &amp; we haue not laboured to make this vſe of it. If we do not, we are farther from God then Pharaoh was, though we ſeeme to be neuer ſo neere vnto him.</p>
+            <p>The firſt part then is the expoſtula<g ref="char:EOLhyphen"/>tion with Abraham, and a clearing of himſelf, wherin he doth accuſe Abra<g ref="char:EOLhyphen"/>ham of a double fault, both of ſpeech and of ſilence: For by theſe two, he was
+<pb facs="tcp:17441:13"/>in danger to haue committed this ſin, and by conſummating of it, to breake wedlocke; and whereas Abraham con<g ref="char:EOLhyphen"/>cealeth part of truth which was expe<g ref="char:EOLhyphen"/>dient to haue bene opened, and decla<g ref="char:EOLhyphen"/>reth that part which was to no pur<g ref="char:EOLhyphen"/>poſe: now he telleth him of both. This thing generally in it ſelfe is to be com<g ref="char:EOLhyphen"/>mended, for this is a property of god<g ref="char:EOLhyphen"/>ly ſorrowe, which as it is in the 2. Cor. 7. chap. the 11. verſe, worketh in vs a clearing of our ſelues. Euen this kinde of defending &amp; clearing of our ſelues, is good, if it be not in hypocriſy, as A<g ref="char:EOLhyphen"/>dam and Euah, but when it is done in truth and ſincerity of heart. But heere Pharaohs ſorrow and feeling of his ſin, did not proceede from the griefe of heart for ſinne, but from the ſharpnes of his puniſhment which god had laid vppon him. And heere is a difference, that is to be put betweene the clearing of the children of this worlde, and of the children of God: for a puniſhment hanging ouer them, doth cauſe them topurge themſelues. How much more then ought the loue of God to co<g ref="char:cmbAbbrStroke">̄</g>pel vs
+<pb facs="tcp:17441:14"/>to reconcile our ſelues vnto the Lord, againſt whome we haue ſinned. Ano<g ref="char:EOLhyphen"/>ther thing in Pharaoh is this: wee may ſee the corruption of nature, which dooth rather complaine of the inſtru<g ref="char:EOLhyphen"/>ment of ſin, then of the root and cauſe of ſin which was at home within him. Of this you heare him not complaine: here is no acknowledging of his owne ſinne, therefore no repentance, &amp; ther<g ref="char:EOLhyphen"/>fore no chriſtian clearing. Here is why didſt thou that, or why didſt thou not this, here is not why did I this or that: or why had I no more grace to thinke with my ſelfe, and to dread the poiſon that is within me. Well, I wiſh you to looke vnto this matter: for marriage is a matter of great waight, a man muſt not take in hand vpon the bare report of ſome man, as appeareth in the 24. chap of Gene. cleane contrary to the cuſtome of this worlde, wherein men content them ſelues with any thing that may ſtop the mouth of men, and ſatisfie the lawe, not conſidering that God looketh into the heart. It is not enough to plead thus before god, &amp; to
+<pb facs="tcp:17441:14"/>ſay he ſaid this, or ſhe ſaid that, but it is that which our ſoule muſt haue reſpect vnto. Wee muſt looke whether luſt, or riches, or wealth, do mooue vs to mar<g ref="char:EOLhyphen"/>rie, for this is a poore ſhift before God, to ſay he ſaid this or that, and I knowe not what. Againe, in a word wee may note this in Pharaoh, whch wee ſhall finde many times wanting in the pro<g ref="char:EOLhyphen"/>feſſours of the goſpell, that hee doth iudge the ſame ſinne, if it had gon for<g ref="char:EOLhyphen"/>ward, to haue beene a more greeueous ſin, and ſo to haue brought vpon him a more greeuous puniſhment, for ſo hee expoſtulateth with Abraham in regard of his dealing, ſaying: for by this thy dealing I was like to haue taken her to be my wife, and ſo to haue brought a greater plague vppon mee. For he did conſider that if hee had enlarged and increaſed his ſin, the Lord would haue increaſed his puniſhments vppon him. The other fruit which this plague that God laid vpon Pharaoh, and his houſe brought forth, was a reſtitution of that which he had taken away.</p>
+            <p>
+               <hi>Now therefore behold thy wife, take her
+<pb facs="tcp:17441:15"/>and go thy way here ſhe is.</hi>
+            </p>
+            <p>Where I ſee yet a farther worke that the hand of God hath in the heart of Pharaoh: not onely to make him to fume, and to chafe at Abraham, &amp; his dealing, but it driueth him vnto a fear and care, and as I may ſay, (a conſci<g ref="char:EOLhyphen"/>ence) for it was more conſcience then many that make a gret ſhew of holines haue, to prouide for that, that which he reſtored, might not be taken away from him againe. Surely if the naked hand of God did make him this wiſe, not onely to purpoſe, but alſo to per<g ref="char:EOLhyphen"/>forme, what ſhall we thinke of manie at this time, whome the hand of God ioyned with his word, cannot compel to reſtore that which they haue wre<g ref="char:EOLhyphen"/>ſted from others. Surely Pharaoh ſhall be our iudge, he ſhall ſtand vp before the ſonne of God; and condemne ſuch as haue ſayd Lord, Lord, and yet haue not done the will of God; then ſhall they heare that terrible and fearefull voyce. Depart from me ye curſſed &amp;c. Heere is your iudge, hee trembled at my iudgements, &amp; reſtored that which
+<pb facs="tcp:17441:15"/>hee had taken away, but you haue not. Finally, he doth confirme his purſpoſe by giuing charge to his officers, that, that which he had reſtored, might con<g ref="char:EOLhyphen"/>tinue &amp; remaine with Abraham: where we learne that it is not onelie the duty of a Prince, to make good and whole<g ref="char:EOLhyphen"/>ſome lawes, and iniu<g ref="char:cmbAbbrStroke">̄</g>ctions; but alſo to ſee them well ordered, and executed. For if Pharaoh had beene as wicked as ſome Chriſtians are, though hee had ſayd, heere is thy wife; yet hee would haue ſet others there, to haue take<g ref="char:cmbAbbrStroke">̄</g> her away from him, &amp; to haue killed him, and all they that were with him. This then is for our laſt inſtruction, that we doe not onely yeeld to that which is good, but to perſeuer and continue in it, and that not onely before God, but alſo before men: alwaies dealing vprightly as in the ſight of God.</p>
+            <closer>Let vs pray.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
